@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: pragra-apigateway
+server:
+  port: 9090
